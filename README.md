@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/JmV3SWDj9N6fVTzgJw/giphy.gif" alt="Animated GIF">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanoturcarelli)](https://github.com/stefanoturcarelli/github-readme-stats)
 
 # Hey there! 👋
 
