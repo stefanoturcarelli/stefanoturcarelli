@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanoturcarelli)](https://github.com/stefanoturcarelli/github-readme-stats)
+![giphy](https://github.com/stefanoturcarelli/stefanoturcarelli/assets/67341828/4f9b9013-c67f-4186-a5f0-6956b265ac64)
 
 # Hey there! 👋
 
