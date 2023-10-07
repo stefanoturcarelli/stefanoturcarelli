@@ -1,4 +1,4 @@
-![Animated GIF](https://media2.giphy.com/media/JmV3SWDj9N6fVTzgJw/giphy.gif)
+<img src="https://media2.giphy.com/media/JmV3SWDj9N6fVTzgJw/giphy.gif" alt="Animated GIF">
 
 # Hey there! 👋
 
