@@ -1,3 +1,5 @@
+![GitHub Profile Animation]([https://example.com/your-gif-url.gif](https://lottiefiles.com/animations/cute-halloween-flying-pumpkin-vtSyrI9HMn))
+
 # Hey there! 👋
 
 I'm Stefano, a passionate Software Developer student 🚀, proudly calling Winnipeg, Manitoba, Canada 🍁, my second home.
