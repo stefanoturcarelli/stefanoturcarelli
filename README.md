@@ -1,4 +1,4 @@
-![GitHub Profile Animation]([https://example.com/your-gif-url.gif](https://lottiefiles.com/animations/cute-halloween-flying-pumpkin-vtSyrI9HMn))
+![GitHub Profile Animation](https://media2.giphy.com/media/JmV3SWDj9N6fVTzgJw/giphy.gif)
 
 # Hey there! 👋
 
