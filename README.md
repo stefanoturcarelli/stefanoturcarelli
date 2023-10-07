@@ -1,4 +1,4 @@
-![GitHub Profile Animation](https://media2.giphy.com/media/JmV3SWDj9N6fVTzgJw/giphy.gif)
+![Animated GIF](https://media2.giphy.com/media/JmV3SWDj9N6fVTzgJw/giphy.gif)
 
 # Hey there! 👋
 
