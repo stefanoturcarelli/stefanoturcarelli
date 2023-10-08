@@ -1,5 +1,3 @@
-![giphy](https://github.com/stefanoturcarelli/stefanoturcarelli/assets/67341828/4f9b9013-c67f-4186-a5f0-6956b265ac64)
-
 # Hey there! 👋
 
 I'm Stefano, a passionate Software Developer student 🚀, proudly calling Winnipeg, Manitoba, Canada 🍁, my second home.
