@@ -4,17 +4,12 @@ I'm Stefano, a passionate Software Developer student 🚀, proudly calling Winni
 
 ## About Me 🚀
 
-- 🎓 Studying to become a Software Developer.
-- 💻 Currently mastering the art of code and web development.
-- 🌟 Love technology, computers, and all things geeky.
+- 🎓 Studying at the Manitoba Institute of Trades and Technology to become a Software Developer.
 
 ## My Tech Stack 💻
 
 - 👨‍💻 Proficient in HTML, CSS, and JavaScript.
-- 📦 Building cool stuff with React.js.
-- 🤖 Embracing the power of C# and .NET.
-- 📊 Taming data with SQL Server and MySQL.
-- 🌐 Exploring the vast world of web APIs.
+- 📦 Building mobile apps with React.js.
 
 ## My Goals 🎯
 
@@ -31,7 +26,7 @@ I'm Stefano, a passionate Software Developer student 🚀, proudly calling Winni
 
 I speak Spanish fluently, so if you ever want to code or chat in Español, I'm your guy! 😄
 
-Feel free to explore my repositories, and don't hesitate to open issues, suggest improvements, or just say hi! Let's code, laugh, and make the world a better place one commit at a time. 🚀✨
+Feel free to explore my repositories, and don't hesitate to open issues, suggest improvements, or just say hi! Let's code, laugh, and make the world a better place, one commit at a time. 🚀✨
 
 Cheers,
 Stefano 🍻
