@@ -11,12 +11,6 @@ I'm Stefano, a passionate Software Developer student 🚀, proudly calling Winni
 - 👨‍💻 Proficient in HTML, CSS, and JavaScript.
 - 📦 Building mobile apps with React.js.
 
-## My Goals 🎯
-
-- 🌟 To land a dream job as a Software Developer.
-- 🚀 Contribute to open-source projects that make the world a better place.
-- 📚 Continuously learn, grow, and master new technologies.
-
 ## Let's Connect! 🌐
 
 - 📫 You can reach out to me at [hello@sgtr.dev](mailto:hello@sgtr.dev).
