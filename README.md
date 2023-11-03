@@ -4,9 +4,13 @@
 
 I'm Stefano, a passionate Software Developer student 💻, proudly calling Winnipeg, Manitoba, Canada 🍁, my second home.
 
+<br>
+
 ## About Me
 
 - 🎓 Studying at the [Manitoba Institute of Trades and Technology](https://mitt.ca/) to become a Software Developer.
+
+<br>
 
 ## My Skills 💻
 
@@ -19,9 +23,7 @@ I'm Stefano, a passionate Software Developer student 💻, proudly calling Winni
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoturcarelli&layout=compact'>
-
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=stefanoturcarelli&show_icons=true&hide_rank=true&theme=default'>
+<br>
 
 ## IDEs/Editors
 
@@ -29,11 +31,15 @@ I'm Stefano, a passionate Software Developer student 💻, proudly calling Winni
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
+<br>
+
 ## Other tools
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
+
+<br>
 
 ## Let's Connect! 🌐
 
@@ -41,5 +47,12 @@ I'm Stefano, a passionate Software Developer student 💻, proudly calling Winni
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/stefanoturcarelli).
 
 Feel free to explore my repositories, and don't hesitate to open issues, suggest improvements, or just say hi! 🚀✨
+
+<br>
+
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoturcarelli&layout=compact'>
+
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=stefanoturcarelli&show_icons=true&hide_rank=true&theme=default'>
+
 
 
