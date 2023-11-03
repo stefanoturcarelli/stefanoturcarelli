@@ -18,6 +18,15 @@ When I'm not immersed in code, you'll find me exploring new places as I'm an avi
 
 <br>
 
+## Projects
+
+- [Catering Bien Casero - food catering business website](https://cateringbiencasero.com)
+- [EduPath - online learning platform](https://stefanoturcarelli.github.io/edupath-elearning/)
+- WineApp - mobile app using React
+- [Wolf Theme - VSCode theme](https://marketplace.visualstudio.com/items?itemName=stefanot.wolf-theme)
+
+<br>
+
 ## My Skills 💻
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
