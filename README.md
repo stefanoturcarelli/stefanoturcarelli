@@ -8,7 +8,7 @@ I'm Stefano, a passionate Software Developer student 💻, proudly calling Winni
 
 ## About Me
 
-- 🎓 Studying at the [Manitoba Institute of Trades and Technology](https://mitt.ca/) to become a Software Developer.
+🎓 Studying at the [Manitoba Institute of Trades and Technology](https://mitt.ca/) to become a Software Developer.
 
 While at [MITT](https://mitt.ca), I've been diving into various projects that have pushed my skills to new heights. Currently, I'm working on an exciting side project with [IleanaEcheverria](https://github.com/IleanaEcheverria) and [bulga138](https://github.com/bulga138), where we're crafting a mobile app. My endgame is to become a full-stack web developer, and I'm making steady progress. Right now, I'm digging deep into web technologies like HTML, CSS, and JavaScript, and I'm especially into React and Firebase for our side project.
 
