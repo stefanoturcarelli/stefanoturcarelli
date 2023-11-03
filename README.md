@@ -48,10 +48,12 @@ I'm Stefano, a passionate Software Developer student 💻, proudly calling Winni
 
 Feel free to explore my repositories, and don't hesitate to open issues, suggest improvements, or just say hi! 🚀✨
 
-<br>
+<be>
 
-<img align='center' width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoturcarelli&layout=compact'>
-<img align='center' width='50%' src='https://github-readme-stats.vercel.app/api?username=stefanoturcarelli&show_icons=true&hide_rank=false&theme=default'>
+<div>
+<img width='42%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoturcarelli&layout=compact'>
+<img width='47%' src='https://github-readme-stats.vercel.app/api?username=stefanoturcarelli&show_icons=true&hide_rank=false&theme=default'>
+</div>
 
 
 
