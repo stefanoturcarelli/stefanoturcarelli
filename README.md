@@ -22,8 +22,9 @@ When I'm not immersed in code, you'll find me exploring new places as I'm an avi
 
 - [Catering Bien Casero - food catering business website](https://cateringbiencasero.com)
 - [EduPath - online learning platform](https://stefanoturcarelli.github.io/edupath-elearning/)
-- WineApp - mobile app using React
 - [Wolf Theme - VSCode theme](https://marketplace.visualstudio.com/items?itemName=stefanot.wolf-theme)
+- [Veterinary website](https://stefanoturcarelli.github.io/veterinary-pet-services/)
+- WineApp - mobile app using React
 
 <br>
 
