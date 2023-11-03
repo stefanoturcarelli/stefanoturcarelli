@@ -20,11 +20,11 @@ When I'm not immersed in code, you'll find me exploring new places as I'm an avi
 
 ## Projects
 
-- [Catering Bien Casero - food catering business website](https://cateringbiencasero.com)
-- [EduPath - online learning platform](https://stefanoturcarelli.github.io/edupath-elearning/)
-- [Wolf Theme - VSCode theme](https://marketplace.visualstudio.com/items?itemName=stefanot.wolf-theme)
-- [Veterinary website](https://stefanoturcarelli.github.io/veterinary-pet-services/)
-- WineApp - mobile app using React
+- [Catering Bien Casero - food catering business website](https://cateringbiencasero.com) - A delicious journey into web development.
+- [EduPath - online learning platform](https://stefanoturcarelli.github.io/edupath-elearning/) - Empowering learners with the digital world.
+- [Wolf Theme - VSCode theme](https://marketplace.visualstudio.com/items?itemName=stefanot.wolf-theme) - Customizing your coding experience.
+- [Veterinary website](https://stefanoturcarelli.github.io/veterinary-pet-services/) - Caring for our furry friends.
+- WineApp - mobile app using React - A sip of technology in every bottle.
 
 <br>
 
@@ -64,7 +64,9 @@ When I'm not immersed in code, you'll find me exploring new places as I'm an avi
 
 Feel free to explore my repositories, and don't hesitate to open issues, suggest improvements, or just say hi! 🚀✨
 
-<be>
+<br>
+
+## My Stats 🕴️
 
 <div align='center'>
 <img width='42%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoturcarelli&layout=compact'>
