@@ -50,9 +50,8 @@ Feel free to explore my repositories, and don't hesitate to open issues, suggest
 
 <br>
 
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoturcarelli&layout=compact'>
-
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=stefanoturcarelli&show_icons=true&hide_rank=true&theme=default'>
+<img align='center' width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoturcarelli&layout=compact'>
+<img align='center' width='50%' src='https://github-readme-stats.vercel.app/api?username=stefanoturcarelli&show_icons=true&hide_rank=false&theme=default'>
 
 
 
