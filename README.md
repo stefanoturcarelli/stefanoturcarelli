@@ -6,7 +6,7 @@ I'm Stefano, a passionate Software Developer student 💻, proudly calling Winni
 
 ## About Me
 
-- 🎓 Studying at the Manitoba Institute of Trades and Technology to become a Software Developer.
+- 🎓 Studying at the [Manitoba Institute of Trades and Technology](https://mitt.ca/) to become a Software Developer.
 
 ## My Skills 💻
 
