@@ -1,3 +1,5 @@
+![github-header](https://github.com/stefanoturcarelli/stefanoturcarelli/assets/67341828/ef527d75-282a-4f3a-8404-327e21eb0ecf)
+
 # Hey there! 👋
 
 I'm Stefano, a passionate Software Developer student 🚀, proudly calling Winnipeg, Manitoba, Canada 🍁, my second home.
