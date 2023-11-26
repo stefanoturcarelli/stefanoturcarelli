@@ -2,7 +2,7 @@
 
 # Hello there!
 
-I'm Stefano, a passionate Software Developer student 💻, proudly calling Winnipeg, Manitoba, Canada 🍁, my second home. I've always been fascinated by technology and the incredible ways it can improve people's lives. My journey in the world of software development has been quite an adventure, filled with its fair share of challenges and rewards.
+I'm Stefano, a passionate Software Developer student 💻, proudly calling Winnipeg, Manitoba, Canada 🍁, my second home. I've always been fascinated by technology and the incredible ways it can improve people's lives. My journey in software development has been quite an adventure, filled with its fair share of challenges and rewards.
 
 <br>
 
@@ -12,7 +12,7 @@ I'm Stefano, a passionate Software Developer student 💻, proudly calling Winni
 
 While at [MITT](https://mitt.ca), I've been diving into various projects that have pushed my skills to new heights. Currently, I'm working on an exciting side project with [IleanaEcheverria](https://github.com/IleanaEcheverria) and [bulga138](https://github.com/bulga138), where we're crafting a mobile app. My endgame is to become a full-stack web developer, and I'm making steady progress. Right now, I'm digging deep into web technologies like HTML, CSS, and JavaScript, and I'm especially into React and Firebase for our side project.
 
-When I'm not immersed in code, you'll find me exploring new places as I'm an avid traveler. I love capturing moments through photography, and my love for movies and videography knows no bounds. My diverse interests, coupled with my dedication to technology, make me a unique individual in the field of software development.
+When I'm not immersed in code, you'll find me exploring new places as an avid traveler. I love capturing moments through photography, and my love for movies and videography knows no bounds. My diverse interests and dedication to technology make me a unique individual in software development.
 
 <br>
 
@@ -74,16 +74,6 @@ When I'm not immersed in code, you'll find me exploring new places as I'm an avi
 - 📫 You can reach out to me at [hello@sgtr.dev](mailto:hello@sgtr.dev) or [hello@stefanoturcarelli.com](mailto:hello@stefanoturcarelli.com).
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/stefanoturcarelli).
 
-Feel free to explore my repositories, and don't hesitate to open issues, suggest improvements, or just say hi! 🚀✨
+Feel free to explore my repositories, and don't hesitate to open issues, suggest improvements, or say hi! 🚀✨
 
 <br>
-
-## My Stats 🕴️
-
-<div align='center'>
-<img width='42%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoturcarelli&layout=compact'>
-<img width='47%' src='https://github-readme-stats.vercel.app/api?username=stefanoturcarelli&show_icons=true&hide_rank=false&theme=default'>
-</div>
-
-
-
