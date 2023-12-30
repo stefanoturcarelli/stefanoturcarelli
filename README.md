@@ -16,16 +16,6 @@ When I'm not immersed in code, you'll find me exploring new places as an avid tr
 
 <br>
 
-## Projects
-
-- [Catering Bien Casero - food catering business website](https://cateringbiencasero.com) - A delicious journey into web development.
-- [EduPath - online learning platform](https://stefanoturcarelli.github.io/edupath-elearning/) - Empowering learners with the digital world.
-- [Wolf Theme - VSCode theme](https://marketplace.visualstudio.com/items?itemName=stefanot.wolf-theme) - Customizing your coding experience.
-- [Veterinary website](https://stefanoturcarelli.github.io/veterinary-pet-services/) - Caring for our furry friends.
-- WineApp - mobile app using React - A sip of technology in every bottle.
-
-<br>
-
 ## My Skills 💻
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
