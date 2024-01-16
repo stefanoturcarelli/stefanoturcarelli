@@ -61,7 +61,7 @@ When I'm not immersed in code, you'll find me exploring new places as an avid tr
 
 ## Let's Connect! 🌐
 
-- 📫 You can reach out to me at [hello@sgtr.dev](mailto:hello@sgtr.dev) or [hello@stefanoturcarelli.com](mailto:hello@stefanoturcarelli.com).
+- 📫 You can reach out to me at [stefano.turcarelli@outlook.com](mailto:stefano.turcarelli@outlook.com).
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/stefanoturcarelli).
 
 Feel free to explore my repositories, and don't hesitate to open issues, suggest improvements, or say hi! 🚀✨
