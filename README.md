@@ -64,6 +64,7 @@ When I'm not immersed in code, you'll find me exploring new places as an avid tr
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <br>
+<br>
 
 ## Let's Connect! 🌐
 
