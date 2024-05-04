@@ -2,7 +2,7 @@
 
 # Hello there!
 
-I'm Stefano, a passionate Software Developer student 💻, proudly calling Winnipeg, Manitoba, Canada 🍁, my second home. I've always been fascinated by technology and the incredible ways it can improve people's lives. My journey in software development has been quite an adventure, filled with its fair share of challenges and rewards. 
+I'm Stefano, a passionate Software Developer student 💻, proudly calling Winnipeg, Manitoba, Canada 🍁, my second home. I've always been fascinated by technology and the incredible ways it can improve people's lives. My journey in software development has been quite an adventure, filled with its fair share of challenges and rewards.
 
 <br>
 
