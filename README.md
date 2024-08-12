@@ -2,19 +2,21 @@
 
 # Hello there!
 
-I'm Stefano, a passionate Software Developer student 💻, proudly calling Winnipeg, Manitoba, Canada 🍁, my second home. I've always been fascinated by technology and the incredible ways it can improve people's lives. My journey in software development has been quite an adventure, filled with its fair share of challenges and rewards.
+I'm Stefano, a dedicated Software Developer 💻, proudly based in Winnipeg, Manitoba, Canada 🍁. My passion for technology drives me to create impactful solutions that enhance people's lives.
 
 <br>
 
 ## About Me
 
-🎓 Studying at the [Manitoba Institute of Trades and Technology](https://mitt.ca/) to become a Software Developer.
+🎓 **Education:** I recently graduated from the [Manitoba Institute of Trades and Technology (MITT)](https://mitt.ca/) with a focus on software development. My time at MITT equipped me with a strong foundation in both front-end and back-end technologies, and I’m excited to apply these skills in the professional world.
 
-🔧 Currently interning at Bit Space Development, working on a project using technologies like React TypeScript, React-Three/Fiber, MySQL, phpMyAdmin, Docker, and Next.js.
+🔧 **Professional Experience:** I recently completed an internship at Bit Space Development, where I was actively involved in a cutting-edge project. I worked with a diverse tech stack including React TypeScript, Redux Toolkit, Three.js, React-Three/Fiber, MySQL, phpMyAdmin, Docker, and Next.js. This experience allowed me to apply my skills in real-world scenarios, collaborate with a talented team, and contribute meaningfully to the development process.
 
-While at [MITT](https://mitt.ca), I've been diving into various projects that have pushed my skills to new heights. Currently, I'm working on an exciting side project with [IleanaEcheverria](https://github.com/IleanaEcheverria) and [bulga138](https://github.com/bulga138), where we're crafting a mobile app. My endgame is to become a full-stack web developer, and I'm making steady progress. Right now, I'm digging deep into web technologies like HTML, CSS, and JavaScript, and I'm especially into React and MySQL for our side project.
+🚀 **Side Projects:** Beyond my formal education and internship, I’m continuing to collaborate with [IleanaEcheverria](https://github.com/IleanaEcheverria) and [bulga138](https://github.com/bulga138) on a mobile app project. This project is pushing my abilities further into full-stack development, with a strong focus on modern web technologies like HTML, CSS, JavaScript, and React Native. Each project I undertake is a step closer to my goal of becoming a well-rounded full-stack web developer.
 
-When I'm not immersed in code, you'll find me exploring new places as an avid traveler. I love capturing moments through photography, and my love for movies and videography knows no bounds. My diverse interests and dedication to technology make me a unique individual in software development.
+🎒 **Ongoing Learning:** I’m committed to continuous learning, whether it’s through mastering new technologies, refining my coding practices, or engaging with the development community. Staying up-to-date in this rapidly evolving field is a priority for me as I move forward in my career.
+
+🌍 **Beyond Coding:** When I’m not coding, I love to explore new places, capturing the world through my lens as an avid traveler and photographer. My passion for movies and videography complements my creative side, adding a unique perspective to my approach in tech.
 
 <br>
 
