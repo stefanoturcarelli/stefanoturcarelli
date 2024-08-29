@@ -4,8 +4,6 @@
 
 I'm Stefano, a dedicated Software Developer 💻, proudly based in Winnipeg, Manitoba, Canada 🍁. My passion for technology drives me to create impactful solutions that enhance people's lives.
 
-<br>
-
 ## About Me
 
 🎓 **Education:** I recently graduated from the [Manitoba Institute of Trades and Technology (MITT)](https://mitt.ca/) with a focus on software development. My time at MITT equipped me with a strong foundation in both front-end and back-end technologies, and I’m excited to apply these skills in the professional world.
@@ -17,8 +15,6 @@ I'm Stefano, a dedicated Software Developer 💻, proudly based in Winnipeg, Man
 🎒 **Ongoing Learning:** I’m committed to continuous learning, whether it’s through mastering new technologies, refining my coding practices, or engaging with the development community. Staying up-to-date in this rapidly evolving field is a priority for me as I move forward in my career.
 
 🌍 **Beyond Coding:** When I’m not coding, I love to explore new places, capturing the world through my lens as an avid traveler and photographer. My passion for movies and videography complements my creative side, adding a unique perspective to my approach in tech.
-
-<br>
 
 ## My Skills 💻
 
@@ -69,20 +65,14 @@ I'm Stefano, a dedicated Software Developer 💻, proudly based in Winnipeg, Man
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<br>
-
 ## IDEs/Editors
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-<br>
-
 ## Let's Connect! 🌐
 
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/stefanoturcarelli).
 
 Feel free to explore my repositories, and don't hesitate to open issues, suggest improvements, or say hi! 🚀✨
-
-<br>
